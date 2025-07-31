@@ -16,8 +16,8 @@ My goal is to show how the tiny things are worth more.
 
 ## Contact me
 
-- Mastodon: [mastodon.social/@janpstrunn](https://mastodon.social/@janpstrunn)
-- Email: janpstrunn@disroot.org
+- Mastodon: [mastodon.social/@anstrinn](https://mastodon.social/@anstrinn)
+- Email: anstrinn@disroot.org
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
