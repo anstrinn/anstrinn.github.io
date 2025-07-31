@@ -14,7 +14,7 @@ image:
 
 # My Obsidian Vault: Minimal
 
-![Obsidian Vault](https://raw.githubusercontent.com/janpstrunn/obsidian-vault/refs/heads/main/Embed/footage.jpg)
+![Obsidian Vault](https://raw.githubusercontent.com/anstrinn/obsidian-vault/refs/heads/main/Embed/footage.jpg)
 
 Specially for new users Obsidian can be challenging to configure and make it truly unique to you, but this only applies for those who want the ultimate note-taking system, which we all know that doesn't exist.
 
@@ -41,13 +41,13 @@ The main **philosophy** in this vault is to **keep thing simple**, easy to manag
 
 ## Using it
 
-This Obsidian Vault can be found at [janpstrunn/obsidian-vault](https://github.com/janpstrunn/obsidian-vault.git)
+This Obsidian Vault can be found at [anstrinn/obsidian-vault](https://github.com/anstrinn/obsidian-vault.git)
 
 1. Download the source code from it, rename the vault (to your liking) and open it in your Obsidian
 2. Clone the repository using `git`
 
 ```bash
-git clone https://github.com/janpstrunn/obsidian-vault.git
+git clone https://github.com/anstrinn/obsidian-vault.git
 ```
 
 ## Getting Started
@@ -163,7 +163,7 @@ By keeping the original content saved, you can now focus in writing in your own 
 
 ###### CSS Classes
 
-The used snippets in this vault are from [janpstrunn/obsidian-snippets](https://github.com/janpstrunn/obsidian-snippets), which includes the `colorizer` and `elegantvagrant`
+The used snippets in this vault are from [anstrinn/obsidian-snippets](https://github.com/anstrinn/obsidian-snippets), which includes the `colorizer` and `elegantvagrant`
 
 1. `img` - This centers all images
 2. `justify` - Justify text (disabled by default)
@@ -350,8 +350,8 @@ If you are up to using plugins, these fits perfectly into Obsidian vanilla exper
     - ~~Recommended to set JPG at 75% quality~~
     - ~~An alternative to JPG is AVIF, which is not supported by Image Converter, but has higher compression results~~
   - Obsidian is not an image converter. You may use an external tool for image compression, like I've done myself
-    - [janpstrunn/converter](https://github.com/janpstrunn/dotfiles/blob/main/scripts/converter)
-    - [janpstrunn/\_\_update-image-links.sh](https://github.com/janpstrunn/dotfiles/blob/main/scripts/__update-image-links.sh)
+    - [anstrinn/converter](https://github.com/anstrinn/dotfiles/blob/main/scripts/converter)
+    - [anstrinn/\_\_update-image-links.sh](https://github.com/anstrinn/dotfiles/blob/main/scripts/__update-image-links.sh)
 - [Janitor](https://github.com/Canna71/obsidian-janitor)
   - Looks for orphan notes and unused embeds, and optionally removes them
 - [Multi Properties](https://github.com/technohiker/obsidian-multi-properties)
