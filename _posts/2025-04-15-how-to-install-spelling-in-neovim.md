@@ -7,6 +7,7 @@ categories:
 tags:
     - howto
     - cli
+    - text-editor
 ---
 
 # Neovim Spelling

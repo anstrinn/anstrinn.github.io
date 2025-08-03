@@ -3,7 +3,7 @@ title: The Only All-in-One Tool You Will Ever Need
 date: 2025-01-18
 description: There are many A-I-O available out there, but what if you could use only one ultimate A-I-O tool?
 categories:
-  - Linux
+  - Software
 tags:
   - cli
 image:
