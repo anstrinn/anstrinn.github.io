@@ -5,7 +5,8 @@ description: Make yourself a step from being lured by useless recommendations in
 categories:
   - Software
 tags:
-  - cli
+  - gui
+  - howto
   - self-host
 image:
   path: /assets/img/2025-02-26-regain-control-over-what-you-watch-in-youtube.avif

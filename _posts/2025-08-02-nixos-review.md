@@ -1,6 +1,6 @@
 ---
 title: "NixOS: Usage Review"
-date: 2025-04-15
+date: 2025-08-02
 description: Here are my thoughts on the amazing NixOS distro, which takes system configuration to another level, plus it's main principles of reproducibility and reliability.
 categories:
     - Linux
@@ -54,7 +54,7 @@ As I already mentioned, each distro has its perks for each field. And my goals c
 
 Some of the issues I pointed in the TLDR section is the full config evaluation to just install `git`. NixOS does a great job, but in my view it is not efficient. It will be surely faster, than a full system upgrade, but it's still slower than using another package manager. Someone could point out to use the `nix-env` command, but I use NixOS the nix way.
 
-If you ever got curious how long I took to make my NixOS config good enough to use it as daily driver, well it took me a whole week to replicate my previous setup from my Arch Linux install. You can look my config in here: [anstrinn/nix][https://github.com/anstrinn/nix].
+If you ever got curious how long I took to make my NixOS config good enough to use it as daily driver, well it took me a whole week to replicate my previous setup from my Arch Linux install. You can look my config in here: [anstrinn/nix](https://github.com/anstrinn/nix).
 I definitively took my way up until here to turn back to NixOS... at least it helped me build a modular and well structured repository. It does not have a guideline file to explain how I organize the files, but you can guess it by reading it. At least I think so.
 
 ## My thoughts on Home Manager
